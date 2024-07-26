@@ -1,0 +1,138 @@
+.min-h-screen {
+    min-height: 100vh;
+}
+
+.flex {
+    display: flex;
+}
+
+.mx-auto {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.item-center {
+    align-items: center;
+}
+
+.justify-between {
+    justify-content: space-between;
+}
+
+.font-bold {
+    font-weight: bold;
+}
+
+.flex-col {
+    flex-direction: column;
+}
+
+.justify-center {
+    justify-content: center;
+}
+
+.my-1 {
+    margin: 13px 0;
+}
+
+.my-2 {
+    margin: 26px 0;
+    padding: 5px 13vw;
+    text-align: center;
+}
+
+.px-2 {
+    padding: 0 13px;
+}
+
+.text-blue {
+    color: rgba(18, 33, 118, 0.97);
+}
+
+.heading-font {
+    font-family: "Russo One", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+}
+
+.font-size-xx {
+    font-size: xx-large;
+}
+
+.btn {
+    padding: 5px 12px;
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 5px;
+    background-color: #ffb603;
+    cursor: pointer;
+    font-weight: bolder;
+
+}
+
+.overflow-x-hidden {
+    overflow-x: hidden;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.topright .gymimg {
+    width: 400px;
+}
+
+.section1 h1 {
+    font-size: 2rem;
+}
+
+.section2 h1 {
+    font-size: 2.2rem;
+}
+
+.section3 h1 {
+    font-size: 2.2rem;
+}
+
+
+.highlighted {
+    font-size: 1.1rem;
+    font-weight: bolder;
+}
+
+.box h2 {
+    font-size: 1.7rem;
+    padding: 12px 0;
+}
+
+.lasthr {
+    width: 100%;
+    left: 0px;
+    position: absolute;
+}
+
+
+
+footer p {
+    margin-top: 5px;
+    margin-bottom: 35px;
+}
+
+.mb-1 {
+    text-align: -webkit-left;
+    
+
+}
+
+.mb-2 {
+    background-color: rgb(255, 255, 255);
+}
+
+footer {
+    color: rgb(213, 223, 223);
+}
+
+.navbar li a {
+    text-decoration: none;
+    color: black;
+    font-weight: 500;
+}
